@@ -6,5 +6,10 @@
   </head>
   <body>
     Hello World!
+
+    <h3>独自クラス</h3>
+    <p>${userEntity.name}</p>
+    <p>${userEntity.number}</p>
+    <p>${userEntity.birthday}</p>
   </body>
 </html>
